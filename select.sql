@@ -1,0 +1,1 @@
+SELECT  *     FROM  Course  FIRST,Course  SECOND     WHERE FIRST.Cpno = SECOND.Cno;SELECT  FIRST.Cno,second.Cno     FROM  Course  FIRST,Course  SECOND     WHERE FIRST.Cpno = SECOND.Cno;
